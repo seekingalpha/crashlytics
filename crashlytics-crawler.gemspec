@@ -3,7 +3,7 @@ lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
-  spec.name          = "crashlytics"
+  spec.name          = "crashlytics-crawler"
   spec.version       = '0.0.1'
   spec.authors       = ["Maiz Lulkin"]
   spec.email         = ["maiz@lulk.in"]
