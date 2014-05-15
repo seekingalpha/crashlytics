@@ -6,7 +6,7 @@ A (crappy) crawler to collect Crashlytics statistics.
 
 Add this line to your application's Gemfile:
 
-    gem 'crashlytics'
+    gem 'crashlytics-crawler'
 
 And then execute:
 
@@ -14,7 +14,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install crashlytics
+    $ gem install crashlytics-crawler
 
 ## Usage
 
